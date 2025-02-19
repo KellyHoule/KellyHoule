@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there! I'm KellyHoule - a passionate developer and lifelong learner.
+
+🌱 Currently exploring:
+
+    Web Development: React, Node.js, and everything in between.
+    Data Science: Diving into Python and machine learning.
+    Open Source: Contributing to projects that make a difference.
+
+💡 Fun fact: I love solving puzzles and challenges, whether it's coding or escape rooms!
+
+📫 How to reach me: KellyHoule
+
+🌟 Let's connect and collaborate on exciting projects!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KellyHoule&theme=juicyfresh)](https://github.com/KellyHoule)
