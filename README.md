@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=KellyHoule&theme=monokai)](https://github.com/KellyHoule)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KellyHoule&theme=darkhub)](https://github.com/KellyHoule)
